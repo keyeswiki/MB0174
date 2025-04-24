@@ -14,6 +14,6 @@ documentation for details.
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-   
-   docs/MB0174-中文资料 V00.md
+
+   docs/MB0174-中文资料.rst
 
