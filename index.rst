@@ -1,8 +1,7 @@
 .. keyes documentation master file, created by
    sphinx-quickstart on Thu Apr 24 10:08:48 2025.
    You can adapt this file completely to your liking, but it should at least
-
-   contain the root `toctree` directive.<https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
+   contain the root `toctree` directive.
 
 
 .. toctree::
