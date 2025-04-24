@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Smart home Kit'
+project = 'keyes Wiki 文档'
 copyright = 'keyestudio'
 author = 'keyestudio'
 
