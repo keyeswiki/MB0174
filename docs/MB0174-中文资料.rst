@@ -315,14 +315,14 @@ World”
 
 4.关闭软件重新打开或者重启电脑.
 
-.. _6.3-产品重要芯片的规格书下载:
+.. _7.-产品重要芯片的规格书下载:
 
-6.3 产品重要芯片的规格书下载
-----------------------------
+7. 产品重要芯片的规格书下载
+---------------------------
 
-`ATMEGA328P数据手册.pdf </api/attachment/ATMEGA328P%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.7z?repo=__root__C:\&path=%2FUsers%2FAdministrator%2FDesktop%2F%E4%B8%8A%E4%BC%A0MB0174%2FMB0174%2Fdocs%2FATMEGA328P%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.7z>`__
+`ATMEGA328P数据手册.pdf </api/attachment/ATMEGA328P.7z?repo=__root__C:\&path=%2FUsers%2FAdministrator%2FDesktop%2F%E4%B8%8A%E4%BC%A0MB0174%2FMB0174%2Fdocs%2FATMEGA328P.7z>`__
 
-`CH340C数据手册.pdf </api/attachment/CH340C%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.7z?repo=__root__C:\&path=%2FUsers%2FAdministrator%2FDesktop%2F%E4%B8%8A%E4%BC%A0MB0174%2FMB0174%2Fdocs%2FCH340C%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C.7z>`__
+`CH340C数据手册.pdf </api/attachment/CH340C.7z?repo=__root__C:\&path=%2FUsers%2FAdministrator%2FDesktop%2F%E4%B8%8A%E4%BC%A0MB0174%2FMB0174%2Fdocs%2FCH340C.7z>`__
 
 .. |image1| image:: ./media/5.1.png
 .. |image2| image:: ./media/5.1.1.png
