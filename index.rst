@@ -6,7 +6,7 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: MB1704 NANO CH340
+   :caption: MB0174 NANO CH340
 
    docs/MB0174-中文资料.rst
 
